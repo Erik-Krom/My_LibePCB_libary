@@ -1,0 +1,10 @@
+(librepcb_library 5433ea8d-b8be-43ef-8cca-58de957f41b0
+ (name "My LibrePCB Libary On Github")
+ (description "")
+ (keywords "")
+ (author "E. Krom")
+ (version "0.1")
+ (created 2022-04-01T21:09:23Z)
+ (deprecated false)
+ (url "https://github.com/Erik-Krom/My_LibePCB_libary.git")
+)
